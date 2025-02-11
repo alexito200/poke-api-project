@@ -33,8 +33,7 @@ poke-search.html page.
 
 
 ### Poke-Search.html
-The poke-search.html file is also a simple page that includes an input field with a search button. The detail of this page is a flying lugia that was made by animating a sprite sheet.
-The sheet consists of 10 frames and they are scaled and animated to present one frame at a time. The animation is set to infinite so it never ends.
+The poke-search.html file is also a simple page that includes an input field with a search button. The allowed input for this field are numbers, specifically the number of one of the original 151 Pokemon. Type in that number and hit the search button for the details. 
 
 ![poke-search](https://github.com/user-attachments/assets/fde9b421-04b7-42d5-b8a4-66bafbdb9588)
 

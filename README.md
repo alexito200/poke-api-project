@@ -5,11 +5,11 @@
     <li>
       <a href="#usage">Usage</a>
       <ul>
-        <li><a href="#poke.js">Poke.js</a></li>
-        <li><a href="#poke-home.html">Poke-Home.html</a></li>
-        <li><a href="#poke-search.html">Poke-Search.html</a></li>
-        <li><a href="#poke-details.html">Poke-Details.html</a></li>
-        <li><a href="#search.css">Search.css</a></li>
+        <li><a href="#pokejs">Poke.js</a></li>
+        <li><a href="#poke-homehtml">Poke-Home.html</a></li>
+        <li><a href="#poke-searchhtml">Poke-Search.html</a></li>
+        <li><a href="#poke-detailshtml">Poke-Details.html</a></li>
+        <li><a href="#searchcss">Search.css</a></li>
       </ul>
     </li>
 </details>
